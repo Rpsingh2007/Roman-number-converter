@@ -21,3 +21,7 @@ This project is ideal for beginners who want to strengthen their understanding o
 ---
 
 ## 📂 Project Structure
+roman-numeral-converter/
+│
+├── roman_converter.py
+└── README.md
